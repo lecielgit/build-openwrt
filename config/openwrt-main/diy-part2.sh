@@ -29,8 +29,6 @@ svn co https://github.com/Leo-Jo-My/luci-app-vssr-plus package/luci-app-vssr-plu
 # Add 依赖包
 svn co https://github.com/Leo-Jo-My/python3-maxminddb package/python3-maxminddb
 svn co https://github.com/Leo-Jo-My/libmaxminddb package/libmaxminddb
-# Add luci-app-vssr-plus
-svn co https://github.com/Leo-Jo-My/luci-app-vssr-plus package/luci-app-vssr-plus
 
 # coolsnowwolf default software package replaced with Lienol related software package
 # rm -rf feeds/packages/utils/{containerd,libnetwork,runc,tini}
